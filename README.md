@@ -1,10 +1,13 @@
-### hi, I'm Jando
+### Hi, I'm Jando 👋
 
-I'm a last-year systems and computing engineering student in Colombia. Most of what I know
-about software came from building things and then having to keep them running on a home
-server.
+- 🎓 Last-year systems and computing engineering student in Colombia
+- 📝 Thesis: a cybersecurity compliance platform for NIST CSF 2.0 (private for now)
+- 🦀 Mostly Rust and Python; TypeScript and Flutter when there's a UI
+- 🖥️ I self-host what I build: NixOS, containers, CI
 
-My thesis is a compliance platform for NIST CSF 2.0 — the biggest thing I've built so far,
-and still private while the group finishes it. The pinned repos are the ones I'd actually
-show someone: HaBytes and Esker run on that server, Pawse exists so I stop opening Reddit,
-and the lab-report tool came out of a consulting job.
+#### Pinned
+
+- 📊 [HaBytes](https://github.com/JandoBR/habytes) — self-hosted habit tracker: Rust server, Flutter web and Android apps, home-screen widget
+- 📄 [Lab Report Consolidator](https://github.com/JandoBR/lab-report-consolidator) — Tauri + Rust app that turns environmental lab-report PDFs into one Excel workbook
+- 🗂️ [Esker](https://github.com/JandoBR/esker) — small self-hosted board for text, links and files: Rust/axum, React, SQLite
+- 🐾 [Pawse](https://github.com/JandoBR/pawse) — Android focus mode that unlocks when you scan an NFC tag
